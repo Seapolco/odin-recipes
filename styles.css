@@ -1,0 +1,118 @@
+
+body {
+    background-image: url("https://media.pitchfork.com/photos/5929c44fc0084474cd0c3670/1:1/w_600/4446b004.jpg");
+    background-size: 8rem;
+    background-repeat: repeat;
+}
+
+.bodyContent {
+    display: block;
+    background-color: rgb(236, 13, 191);
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 70px
+}
+
+
+h1 {
+    font-family: DynaPuff;
+    display: block;
+    color: rgb(74, 188, 25);
+    background-color: rgb(20,20,20);
+    font-size: 40px;
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+
+}
+
+h2 {
+    font-family: DynaPuff;
+    display: block;
+    color: rgb(221, 27, 27);
+    background-color: rgb(40,40,40);
+    font-size: 35px;
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    
+}
+
+.logoDoom {
+    width: 20%;
+    display:flex;
+    position: absolute;
+    
+}
+
+.profileDoom {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    border: solid rgb(74, 188, 25);
+    width: 35%;
+    height: auto;
+
+}
+
+.foodPic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    border: solid rgb(74, 188, 25);
+    width: 35%;
+    height: auto;
+}
+
+.mainContent {
+    color: white;
+    background-color: rgb(20,20,20);
+    font-size: 20px;
+
+}
+
+li {
+    line-height: 1.5
+}
+
+ol li {
+    line-height: 2.5;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+
+  }
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: yellow
+}
+
+.homepageLink {
+    color: rgb(74, 188, 25);
+}
+
+.links {
+    display: block;
+    background-color: rgb(20,20,20);
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
